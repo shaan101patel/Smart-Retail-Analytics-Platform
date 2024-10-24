@@ -207,6 +207,8 @@ Develop a cloud-based, end-to-end retail analytics platform that leverages machi
 
 ## **Project Timeline**
 
+- Aiming to start the project in Jan 2025
+
 | Month      | Activities                                           |
 |------------|------------------------------------------------------|
 | **1-2**    | Planning, data acquisition, and initial data engineering. |
@@ -249,5 +251,3 @@ By embarking on this comprehensive project, you will:
    - Keep a project journal or blog to reflect on challenges and solutions along the way.
 
 ---
-
-**Good luck with your project!** By diligently working through this comprehensive plan, you'll be well-prepared to showcase your skills and land the Machine Learning Engineer II position.
